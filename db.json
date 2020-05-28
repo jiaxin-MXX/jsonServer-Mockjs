@@ -1,0 +1,94 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "jiaxin",
+      "postId": 2
+    },
+    {
+      "body": "guzi",
+      "postId": 88,
+      "id": 3
+    },
+    {
+      "body": "guzi",
+      "postId": 88,
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "slider": [
+    {
+      "id": 1,
+      "path": "product/huawei",
+      "title": "华为"
+    },
+    {
+      "id": 2,
+      "path": "product/oppo",
+      "title": "OPPO"
+    },
+    {
+      "id": 3,
+      "path": "product/vivo",
+      "title": "VIVO"
+    },
+    {
+      "id": 4,
+      "path": "product/Samsung",
+      "title": "三星"
+    },
+    {
+      "id": 5,
+      "path": "product/mi",
+      "title": "小米"
+    },
+    {
+      "path": "product/111",
+      "title": "111",
+      "id": 6
+    },
+    {
+      "path": "product/aaa",
+      "title": "啊啊啊",
+      "id": 7
+    },
+    {
+      "path": "product/",
+      "title": "1111",
+      "id": 8
+    },
+    {
+      "path": "product/呜呜呜呜",
+      "title": "1111",
+      "id": 9
+    },
+    {
+      "path": "product/",
+      "title": "222",
+      "id": 10
+    },
+    {
+      "path": "product/",
+      "title": "a",
+      "id": 11
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server-router": "^2.3.0",
+    "mockjs": "^1.1.0"
+  }
+}
